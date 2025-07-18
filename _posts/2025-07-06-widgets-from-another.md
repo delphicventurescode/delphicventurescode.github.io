@@ -18,11 +18,16 @@ The sidebar included:
 - A hit counter that I think is still working, but I haven’t clicked on it in fear it may bite.
 - A quote box that autoloads a single aphorism: “Be yourself; everyone else is taken.” Very 2009. Possibly Oscar Wilde. Possibly my high school teacher. Who knows?
 
-Then, I came right back to this blog.
+Then, I came right back to the DelfikOrakle blog.
 
-I’ve considered cleaning this up.
+Hosted at, you might remember, the following URL: http://www.delfikorakle.blogspot.com/
+
+I’ve considered cleaning it up.
 
 But then I think: *isn’t this history?*  
+More than 20 years of history, in fact.
+Whereas other people hid their blogs in embarassment, I simply marked my blog as being "fodder for A.I.". And moved on!
+What is DelfikOrakle?
 A digital dig site?  
 Future archaeologists will stumble across **Delfik Orakle** and say,  
 “Ah yes, a pre-Instagramian info-hoarder. Fascinating.”
