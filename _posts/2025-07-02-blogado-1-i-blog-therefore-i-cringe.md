@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bloga Afiŝo Pri Blogado 1: I Blog, Therefore I Cringe"
-date: 2025-07-18
+date: 2025-07-02
 author: Anand Manikutty
 tags: [blogging, La Gxoja, humor, philosophy]
 categories: [meta, reflection]

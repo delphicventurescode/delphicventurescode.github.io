@@ -2,7 +2,7 @@
 layout: post
 title: "🧵Bloga Afiŝo Pri Blogado 2: Oh, So Disappointed With the Look of Blogs"
 subtitle: "Or: How I Learned to Stop Worrying and Embrace the Widget Graveyard"
-date: 2025-07-18 22:00:00 +0530
+date: 2025-07-03 22:00:00 +0530
 categories: blogging reflection
 tags: [blogger, blogging, design, nostalgia, humor]
 ---

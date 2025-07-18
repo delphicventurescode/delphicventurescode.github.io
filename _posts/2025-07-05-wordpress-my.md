@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 🧵Bloga Afiŝo Pri Blogado 3: WordPress, My Forbidden Love
+title: "🧵Bloga Afiŝo Pri Blogado 3: WordPress, My Forbidden Love"
+subtitle: "Or: How I Learned to Stop Worrying and Embrace the Widget Graveyard"
 author: Anand Manikutty
-date: 2025-07-18
+date: 2025-07-05
+categories: blogging reflection
 tags: [Blogging, WordPress, Humor, Delfik Orakle]
 ---
 
-## Or: How I Learned to Stop Worrying and Embrace the Widget Graveyard  
-## Or: The Template That Got Away  
 
 I visited WordPress again earlier this week.  
 Just… browsed. No touching.
