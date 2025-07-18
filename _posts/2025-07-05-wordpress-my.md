@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 🧵Bloga Afiŝo Pri Blogado 3: WordPress, My Forbidden Love
 author: Anand Manikutty
 date: 2025-07-18
