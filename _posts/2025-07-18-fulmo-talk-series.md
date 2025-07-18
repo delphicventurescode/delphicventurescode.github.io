@@ -1,5 +1,5 @@
 ---
-title: "Fulmo Talks Now on YouTube!"
+title: "🧵Blog Post 8: Fulmo Talks Now on YouTube!"
 date: 2025-07-18
 tags: [fulmo, talks, youtube, blog, humor]
 layout: post
