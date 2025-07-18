@@ -10,21 +10,33 @@
 ############################
 
 # Name of website
-title: My website
+title: Code and Content Written For Delphic Ventures
 
 # Your name to show in the footer
-author: Some Person
+author: Anand Manikutty
+
+email: <first_name> dot <last_name> at gmail dot com
+
+description: >- 
+  Blog, ideas, and experiments from Anand.
+
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog: "index"
+  About Me: "https://about.me/anand.manikutty"
+  Professional Profile: "https://anandmanikutty2018.wixsite.com/professionalprofile/professionalprofile"
+
+
+#navbar-links:
+#  About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
