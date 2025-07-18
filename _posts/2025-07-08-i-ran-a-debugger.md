@@ -1,5 +1,5 @@
 ---
-title: "🧵Blog Post (m): I Ran a Debugger on My Blog. It Cried."
+title: "🧵Blog Post 6: I Ran a Debugger on My Blog. It Cried."
 subtitle: "# I Ran a Debugger on My Blog. It Cried."
 date: 2025-07-08
 layout: post

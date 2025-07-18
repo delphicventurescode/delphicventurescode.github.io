@@ -1,5 +1,5 @@
 ---
-title: "Just for the Record"
+title: "🧵Blog Post 7: Just for the Record"
 subtitle: "Mi volas paroli, or I want to say..."
 date: 2025-07-09
 author: Anand Manikutty
@@ -11,7 +11,7 @@ Just for the record:
 I can design beautiful websites. Really.
 
 Here’s one example I’m quite proud of:  
-👉 **La Gxoja Filozofio**
+👉 **La Gxoja Filozofio** [available at: https://lagxojafilozofio.wordpress.com]
 
 Clean. Thoughtful. Not even a hint of mauve regret.  
 See? I’m not entirely trapped in Blogger 2009. I visit the modern web occasionally. I just don’t live there.
