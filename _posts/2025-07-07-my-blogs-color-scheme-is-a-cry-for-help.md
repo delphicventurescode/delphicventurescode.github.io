@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧵Blog Post 5: My Blog's Color Scheme Is a Cry for Help"
-subtitle: "Or: This Blog is This Color? Really?"
+subtitle: "Or: This DelfikOrakle Blog is This Color? Really?"
 date: 2025-07-07
 author: Anand Manikutty
 tags: [blog-design, nostalgia, humor, uiux, color]

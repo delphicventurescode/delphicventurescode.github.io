@@ -1,0 +1,15 @@
+---
+layout: default
+title: Talks
+permalink: /talks/
+---
+
+<h1>Fulmo Talk Series</h1>
+
+<ul>
+  {% for talk in site.talks %}
+    <li>
+      <a href="{{ talk.url }}">{{ talk.title }}</a> – {{ talk.speaker }} ({{ talk.date | date: "%B %d, %Y" }})
+    </li>
+  {% endfor %}
+</ul>
