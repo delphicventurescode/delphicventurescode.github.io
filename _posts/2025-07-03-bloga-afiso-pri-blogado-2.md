@@ -17,6 +17,8 @@ And then there’s this one.
 
 **Delfik Orakle.**
 
+Hosted at delfikorakle.blogspot.com.
+
 It doesn’t try. It doesn't even pretend to try.
 
 I’ve tweaked things here and there over the years. Moved widgets. Changed background colors. Accidentally broke things. Added a search bar that no one uses, including me.
@@ -55,7 +57,8 @@ Sometimes ugly grows on you.
 But not in this case.
 
 I continue to create beautiful websites.  
-Like the one I created for the La Gxoja Filozofio project.  
+Like the one I created for the La Gxoja Filozofio project.
+Hosted at: https://lagxojafilozofio.wordpress.com/  
 People said it looked very nice. Almost everyone compliment me about it. Yes, that one.
 
 But, yes, sometimes, ugly grows on you.  

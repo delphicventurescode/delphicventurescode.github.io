@@ -1,7 +1,8 @@
 ---
-title: La Gxoja Filozofio: Joy in a Tired World
+layout: post
+title: "La Gxoja Filozofio: Joy in a Tired World"
 author: Anand Manikutty
-date: 2025-07-18
+date: 2025-07-04
 tags: [La Gxoja, Philosophy, Joy, Delfik Orakle]
 ---
 
