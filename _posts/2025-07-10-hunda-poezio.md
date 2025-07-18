@@ -42,4 +42,9 @@ It's very possibly the future.
 Whether you want to **fork the code**, train your dog to recognize sonnets, or just chuckle at the absurdity of it all, you’re warmly welcome.
 
 Check out the project:  
-👉 [github.com/qwykr/hunda-poezio-public](https://github.com/qwykr/hunda-poezio-public)
+👉 [https://github.com/delphicventurescode/hunda_poezio_public](https://github.com/delphicventurescode/hunda_poezio_public)
+
+But isn't Poetry for Dogs an exercise in madness? Not quite, dear reader. For the rationale, go here:
+👉 [https://github.com/delphicventurescode/hunda_poezio_public/blob/main/CODE_COMPLETE/README.md](https://github.com/delphicventurescode/hunda_poezio_public/blob/main/CODE_COMPLETE/README.md)
+
+[+]
