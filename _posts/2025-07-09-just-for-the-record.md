@@ -11,7 +11,9 @@ Just for the record:
 I can design beautiful websites. Really.
 
 Here’s one example I’m quite proud of:  
-👉 **La Gxoja Filozofio** [available at: https://lagxojafilozofio.wordpress.com]
+👉 **La Gxoja Filozofio** 
+
+Available at: https://lagxojafilozofio.wordpress.com.
 
 Clean. Thoughtful. Not even a hint of mauve regret.  
 See? I’m not entirely trapped in Blogger 2009. I visit the modern web occasionally. I just don’t live there.
