@@ -11,7 +11,7 @@ Some of the talks from the **Fulmo Talk Series** have officially made their way 
 
 ## ✨ What is Fulmo?
 
-For those new here: Fulmo is our attempt to recreate the magic of spontaneous joy, one short game at a time. And now, we even have talks. Short ones, mind you. No droning lectures. No 57-slide decks. Just 7–10 minutes of distilled thoughts, odd metaphors, and the occasional microphone mishap.
+For those new here: Fulmo Games Hub is our attempt to recreate the magic of spontaneous joy, one short game at a time. And now, we even have talks. Short ones, mind you. No droning lectures. No 57-slide decks. Just 7–10 minutes of distilled thoughts, odd metaphors, and the occasional microphone mishap.
 
 You might laugh. You might cry. You might even pause the video halfway through to Google "semiotics of lightning bolts."
 
