@@ -37,7 +37,7 @@ In the meantime, grab a cup of tea (or La Gxoja™-branded elderflower soda) and
 
 ---
 
-Yes, I still maintain this blog.
+Yes, I still maintain the DelfikOrakle blog. It is available at: https://delfikorakle.blogspot.com/
 
 Yes, I still haven’t fixed the font kerning.
 
