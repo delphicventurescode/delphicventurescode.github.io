@@ -1,5 +1,5 @@
 ---
-title: "Poetry for Dogs? Oh yes, we went there."
+title: "🧵Blog Post 8: Poetry for Dogs? Oh yes, we went there."
 Subtitle: "We even have code to prove it!"
 date: 2025-07-10
 layout: post
