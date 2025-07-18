@@ -6,4 +6,4 @@ author: Anand Manikutty
 tags: [announcement, startup]
 ---
 
-We are excited to announce the launch of Delphic Ventures' La Gxoja Blog — a new chapter in innovation and investment.
+We are excited to announce the launch of Delphic Ventures' La Gxoja Blog — it introduces, among other things, a new Philosophy that I have developed.
