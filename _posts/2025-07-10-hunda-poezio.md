@@ -19,7 +19,7 @@ Whether you're a **coder**, a **canine**, or just **curious**, there’s somethi
 ## 📦 What's in the box?
 
 We currently have **more than one GitHub repo** exploring the idea of dog-centric poetry. In fact, we even have a project going on related to generating books of **haiku poetry**. More than **fifteen books of haiku** poetry have been written — and some of the poems are for dogs.
-
+ 
 Some haikus focus on **South Asia** — themed around monuments in India.
 
 Others are on **Hawaii**. We even offer **free, open-source code** to generate verse automatically — yes, even iambic pentameter, barked out ten syllables at a time.
