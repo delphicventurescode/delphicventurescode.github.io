@@ -55,19 +55,19 @@ Sometimes ugly grows on you.
 But not in this case.
 
 I continue to create beautiful websites.  
-Like [this one I created for the La Gxoja Filozofio project](#).  
-People said it looked very nice. Almost everyone compliment me about it. Yes, this one.
+Like the one I created for the La Gxoja Filozofio project.  
+People said it looked very nice. Almost everyone compliment me about it. Yes, that one.
 
 But, yes, sometimes, ugly grows on you.  
 Like lichen.  
 Or existentialism.  
 Or the word **"moist."**
 
-So here I remain — typing into the void, under fluorescent serif fonts and widgets from the Paleozoic era — because this is my home.
+So on delfikorakle.blogspot.com, I remain — typing into the void, under fluorescent serif fonts and widgets from the Paleozoic era — because this was my home.
 
 ---
 
-**Welcome back to Delfik Orakle:**  
+**Welcome to Delfik Orakle:**  
 Still deconstructed.  
 Still mildly embarrassing.  
 Still mine.
