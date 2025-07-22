@@ -1,6 +1,6 @@
 ---
 title: "Esperanto: The Language for World Citizens"
-date: 2025-07-22
+date: 2025-07-21
 speaker: "Mr. Anand Manikutty"
 hosted_by: "Delphic Ventures, Fulmo Technologies"
 youtube_url: "https://www.youtube.com/watch?v=zPOmF3T-BJQ"

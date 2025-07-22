@@ -1,6 +1,6 @@
 ---
 title: "The Science of Happiness"
-date: 2025-07-23
+date: 2025-07-22
 speaker: "Prof. Sonja Lyubomirsky"
 hosted_by: "Delphic Ventures, Fulmo Technologies"
 youtube_url: "https://www.youtube.com/watch?v=2YR8-ZqH4wc"
