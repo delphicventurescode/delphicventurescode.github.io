@@ -1,5 +1,11 @@
-# Beautiful Jekyll
+# Beautiful Jekyll Project by Anand Manikutty
 
+- Original notes and README are below
+- Author of this GitHub.io: Anand Manikutty
+
+[+]
+
+# Beautiful Jekyll
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
