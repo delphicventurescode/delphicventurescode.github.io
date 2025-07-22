@@ -8,9 +8,9 @@ tags: [esperanto, linguistics, languages, constructed languages, fulmo]
 layout: page
 ---
 
-In this talk, Mr. Anand Manikutty talks about the Esperanto language.
+In this talk, Mr. Anand Manikutty, a computer scientist, author and poet, talks about the Esperanto language.
 
-As part of the Fulmo Talk Series, we featured Prof. Sonja Lyubomirsky, a leading researcher in the field of Happiness Studies. We were honored to also feature Mr. Anand Manikutty, an accomplished researcher in computer science and strategic management. Strategic management researchers are also interested in productivity and mental well-being, and thereby, the question of what organizational strategy should be. 
+Strategic management researchers are interested in productivity and mental well-being, and thereby, the question of what organizational strategy should be. As part of the Fulmo Talk Series, we featured Prof. Sonja Lyubomirsky, a leading researcher in the field of Happiness Studies. We were honored to also feature Mr. Anand Manikutty, an accomplished researcher in strategic management. 
 
 A multi-faceted technology professional, writer, inventor and former engineer, Mr. Manikutty introduces Esperanto, the *Internacia Lingvo* (or "International Language"). He also shares his creation of a new constructed language called **Hesperanto**, designed to address specific challenges in language learning and cultural inclusivity. A central idea in Hesperanto is the concept of **aayaato** — the intentional borrowing of words across languages. This feature of Hesperanto is designed to significantly speed up language acquisition and improve learner engagement.
 
