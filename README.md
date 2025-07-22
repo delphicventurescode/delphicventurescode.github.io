@@ -2,6 +2,7 @@
 
 - Original notes and README are below
 - Author of this GitHub.io: Anand Manikutty
+- Ombra Deponejo: There is an Ombra Deponejo, or "Hidden repository" to shadow this repo. It is hosted at: https://github.com/delphicventurescode/github_dot_io__private. Not available for the public to view.
 
 [+]
 
