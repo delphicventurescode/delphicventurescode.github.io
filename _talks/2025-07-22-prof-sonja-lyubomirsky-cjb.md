@@ -8,7 +8,7 @@ tags: [communication, communication technologies, psychology, psychological issu
 layout: page
 ---
 
-From Prof. Sonja Lyubomirsky comes a perspective on happiness based on more than .
+From Prof. Sonja Lyubomirsky comes a perspective on happiness based on more than 35 years.
 
 Prof. Sonja Lyubomirsky introduces herself with a small mention of her impressive background. She mentions the idea that one needs to engage in "Intenciaj Agadoj", that is, Intentional Activities to improve one's happiness. This is a key takeaway from her Talk. She talks about her new book "How to Feel Loved". And there is much more...
 
