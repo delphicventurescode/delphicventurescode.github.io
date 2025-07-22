@@ -1,20 +1,20 @@
 ---
-title: "Communication Technologies and their Impact : A Perspective Out of Africa"
-date: 2025-07-18
-speaker: "Mr. Peter Adeyi"
+title: "The Science of Happiness"
+date: 2025-07-23
+speaker: "Prof. Sonja Lyubomirsky"
 hosted_by: "Delphic Ventures, Fulmo Technologies"
-youtube_url: "https://www.youtube.com/watch?v=15KB2qnSWpY&t=18s"
+youtube_url: "https://www.youtube.com/watch?v=2YR8-ZqH4wc"
 tags: [communication, communication technologies, psychology, psychological issues, fulmo]
 layout: page
 ---
 
-Out of Africa comes a perspective on the impact of communication and emerging technologies.
+From Prof. Sonja Lyubomirsky comes a perspective on happiness based on more than .
 
-Mr. Peter Adeyi explores the impact of communication and emerging technologies in the modern era—reflecting on the psychological and societal challenges they introduce. And there is much more...
+Prof. Sonja Lyubomirsky introduces herself with a little preview of her impressive background. She mentions the idea that one needs to engage in "Intenciaj Agadoj", that is, Intentional Activities to improve one's happiness. She talks about her new book "How to Feel Loved". And there is much more...
 
 This talk is part of the Fulmo Talk Series, an initiative to promote interdisciplinary dialogue and greater awareness of Esperanto and other constructed languages.
 
-[🎥 Watch the talk on YouTube](https://www.youtube.com/watch?v=15KB2qnSWpY&t=18s)
+[🎥 Watch the talk on YouTube](https://www.youtube.com/watch?v=2YR8-ZqH4wc)
 
 [+]
 
