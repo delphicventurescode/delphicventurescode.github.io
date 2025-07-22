@@ -17,6 +17,7 @@ A multi-faceted technology professional, writer, inventor and former engineer, M
 Developing a whole new ConLang like that is quite *mirinda* (trans.: "wonderful"), and we are really excited about the futuristic possibilities such a language opens up.
 
 [🎥 Watch the talk on YouTube](https://www.youtube.com/watch?v=zPOmF3T-BJQ)
+[ Dropbox folder with slide deck: https://www.dropbox.com/scl/fo/tbnwehbbexo0swy34ks26/AHMF9wsRyloAR7Ww6KzNYQk?rlkey=3fvdrqfc0e1vdcuvrwol1oudr&st=6rto09da&dl=0 ]
 
 [+]
 
