@@ -1,6 +1,6 @@
 ---
 title: "The Holocaust and the Hindua-Genocidaro"
-date: 2025-07-24
+date: 2025-07-23
 speaker: "Mr. Anand Manikutty"
 hosted_by: "Delphic Ventures, Fulmo Technologies"
 youtube_url: "https://www.youtube.com/watch?v=2YR8-ZqH4wc"
